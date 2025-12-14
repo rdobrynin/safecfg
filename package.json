@@ -1,5 +1,5 @@
 {
-  "name": "config-gurard",
+  "name": "@rdobrynin/configguard",
   "version": "1.0.1",
   "description": "A declarative, type-safe configuration validator with contextual validation and auto-generated documentation.",
   "main": "dist/index.js",
